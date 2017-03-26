@@ -1,0 +1,5 @@
+1422984006: /home1/domainc4/public_html/anytimeteacher/ssv3_installer_payload-mqeGHdCgEd.php startup
+[03-Feb-2015 10:20:31 America/Denver] PHP Notice:  Use of undefined constant MDL_PERF_TEST - assumed 'MDL_PERF_TEST' in /home1/domainc4/public_html/anytimeteacher/lib/setuplib.php on line 1823
+[03-Feb-2015 10:20:31 America/Denver] PHP Notice:  Trying to get property of non-object in /home1/domainc4/public_html/anytimeteacher/lib/moodlelib.php on line 8945
+[03-Feb-2015 10:20:31 America/Denver] PHP Notice:  Undefined offset: 1 in /home1/domainc4/public_html/anytimeteacher/lib/moodlelib.php on line 8192
+[03-Feb-2015 10:20:31 America/Denver] PHP Notice:  Trying to get property of non-object in /home1/domainc4/public_html/anytimeteacher/lib/moodlelib.php on line 8952
